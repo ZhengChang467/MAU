@@ -1,0 +1,6 @@
+numpy==1.18.5
+opencv-python==4.5.1.48
+nvidia-ml-py3==7.352.0
+lpips==0.1.3
+scikit-image==0.16.2
+tqdm>=4.41.0

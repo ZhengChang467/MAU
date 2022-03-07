@@ -6,7 +6,7 @@ Shanshe Wang,
 Siwei Ma,
 Yan Ye,
 Xinguang Xiang,
-Wen GAo.
+Wen Gao.
 
 Official PyTorch Code for **"MAU: A Motion-Aware Unit for Video Prediction and
 Beyond"** [[paper]](https://proceedings.neurips.cc/paper/2021/file/e25cfa90f04351958216f97e3efdabe9-Paper.pdf)
